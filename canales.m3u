@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:29,La Voz de Mar a (720p)
+#EXTINF:29, tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9WMVcy8JhWfFqU3i5b7cu1-bkssuEKuIoEZTZPwQSjRymMLbsEl9cCOOTwZuWaGo-pWX-EIpBL-Nb4boG8k8_oSqQ1RSjnl8aWEv4Qp-N4lXHPRW1wundb0JkSMVjk-VZsfZHDRxavZeP/s1600/la+voz+de+maria+en+vivo.png", La Voz de Maria (720p)
 #EXTVLCOPT:network-caching=1000
 https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8
 
@@ -31,11 +31,7 @@ http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
 #EXTINF:60,Teleuniverso (720p)
 #EXTVLCOPT:network-caching=1000
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
-
-#EXTINF:0,Misterios sin Resolver 
-#EXTVLCOPT:network-caching=1000
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3ac2-65ec577c39fd1025c2acd277/variant.m3u8?url=b9249dccd5f046f14a1f585b3fa47612-7932c94ac308d61507115168d394f92e7cbd7c8ef05d204fe71eb69f1e1ec91e537043ee0e01d6c79f12fa3edc36a559c9b7ffb8672a69a41569039816305239c51cfda398d3e3128c0cda96bfa72d8e837127627c39dcbe387a12947f7ddf5f634db88caac987ad528579b06757650fc4d60c0d4b5bcf76f575edb18bfd5df2b3ad660d27c8930443a420f354758dfc54a9e085f1f764421c815b14474a5f0b&x-plex-token=y5VTmdPPgdsj5izfe5V4&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=1232x900%2C1280x1024&x-plex-device-vendor=&x-plex-version=4.137.1&x-plex-session-id=8899d8b5-bc3f-4e1a-8694-66b7d47e8b51&x-plex-playback-session-id=8c2034e4-a19d-491d-8357-caf7e2f9102e&x-plex-playback-id=&x-plex-provider-streaming-start=1725851922&autoPreview=0
-
+ 
 #EXTINF:7200,24 Horas Internacional [Geo-blocked]
 #EXTVLCOPT:network-caching=1000
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
