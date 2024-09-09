@@ -526,3 +526,7 @@ https://5790d294af2dc.streamlock.net/Zonavisiontv/Zonavisiontv/playlist.m3u8
 #EXTINF:0,ZTV (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
+
+#EXTINF:0,Porn promotion (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://cdn.redtraffic.net/bigass.m3u8
