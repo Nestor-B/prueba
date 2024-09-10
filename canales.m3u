@@ -35,10 +35,6 @@ https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 #EXTVLCOPT:network-caching=1000
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
-#EXTINF:20,Acento TV
-#EXTVLCOPT:network-caching=1000
-https://glb.bozztv.com/glb/ssh101/acento/index.m3u8
-
 #EXTINF:67,Agenda 56 (720p)
 #EXTVLCOPT:network-caching=1000
 https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
